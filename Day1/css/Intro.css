@@ -1,0 +1,17 @@
+div{
+    background-color: lightgrey;
+  width: auto;
+  border: 3 px solid green;
+  padding: 1PX;
+  margin-left: 20PX;
+
+
+    
+}
+*{
+    padding: 10px;
+    
+}
+body{
+    background-color: aquamarine;
+}
